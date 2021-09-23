@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <genre>
+        <science>
+            <book>
+                <name>After_You</name>
+                <pqty>416</pqty>
+                <bqty>30</bqty>
+            </book>
+            <book>
+                <name>The_Help</name>
+                <pqty>464</pqty>
+                <bqty>30</bqty>
+            </book>
+            <book>
+                <name>Adrian_Mole</name>
+                <pqty>448</pqty>
+                <bqty>30</bqty>
+            </book>
+        </science>
+        <art>
+            <book>
+                <name>Breakfast at Tiffany's</name>
+                <pqty>176</pqty>
+                <bqty>30</bqty>
+            </book>
+            <book>
+                <name>Alice's Adventures in Wonderland</name>
+                <pqty>215</pqty>
+                <bqty>30</bqty>
+            </book>
+            <book>
+                <name>Magnus Chase and the Ship of the Dead</name>
+                <pqty>501</pqty>
+                <bqty>30</bqty>
+            </book>
+            <book>
+                <name>Brooklyn</name>
+                <pqty>201</pqty>
+                <bqty>30</bqty>
+            </book>
+        </art>
+        <fiction>
+            <book>
+                <name>Adrian Mole: The Wilderness Years</name>
+                <pqty>367</pqty>
+                <bqty>30</bqty>
+            </book>
+            <book>
+                <name>Roget's Thesaurus of English Words and Phrases</name>
+                <pqty>477</pqty>
+                <bqty>30</bqty>
+            </book>
+            <book>
+                <name>Orchids of northern europe</name>
+                <qty>501</qty>
+                <bqty>30</bqty>
+            </book>
+        </fiction>
+    </genre>
+</root>
